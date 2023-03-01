@@ -1,7 +1,9 @@
 # Human-resources-management-system-frontend-vuejs
 
 ## about project
-i used vuetify in this project
+hr project using vuejs:
+### vue router for navigation 
+#### vuetify for templates
 
 if you wanna login as admin you have to use this email and password
 admin@gmail.com
